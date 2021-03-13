@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "743937157043",
+    "project_id": "fx-management-7c2d4",
+    "storage_bucket": "fx-management-7c2d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743937157043:android:4549b997f42b3dbcd54dc6",
+        "android_client_info": {
+          "package_name": "com.example.fxmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743937157043-e6t6f4pepbvortd60ngcleic0jrk9g01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM8jaLAs9Y-lL41Ty3SHnlRj_k8jstFI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743937157043-e6t6f4pepbvortd60ngcleic0jrk9g01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
